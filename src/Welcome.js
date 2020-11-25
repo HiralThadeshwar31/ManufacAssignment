@@ -29,7 +29,7 @@ export class Welcome extends Component {
             style={{ padding: 20, paddingTop: 40 }}
           >
 
-            <div style={{ display: 'flex', flexDirection: "column", maxWidth: 400, minWidth: 300 }}>
+            <div style={{ display: 'flex', flexDirection: "column", maxWidth: 400, minWidth: 270 }}>
               <Grid container justify="center">
                 <img src="https://dynamic.brandcrowd.com/asset/logo/bf099eae-01b4-4a27-a6aa-80d1e30ad164/logo?v=4"
                   width={200}
